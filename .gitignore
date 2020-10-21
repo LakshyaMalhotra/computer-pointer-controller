@@ -6,6 +6,10 @@ __pycache__/
 # data directories
 bin
 *.swp
+
+# model weight files
+*.bin
+
 # C extensions
 *.so
 
