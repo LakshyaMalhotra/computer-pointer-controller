@@ -1,0 +1,5 @@
+numpy==1.18.5
+pillow==7.2.0
+requests==2.24.0
+pyautogui==0.9.5
+opencv-python==4.3.0.36
